@@ -16,3 +16,10 @@ lerna-debug.log*
 .npm
 # Optional eslint cache
 .eslintcache
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production
+
+
