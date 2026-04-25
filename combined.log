@@ -108,3 +108,12 @@
 {"level":"info","message":"::1 - - [21/Apr/2026:10:30:23 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 507 \"-\" \"PostmanRuntime/7.53.0\"","service":"user-service","timestamp":"2026-04-21T10:30:23.300Z"}
 {"level":"info","message":"Registering user: msahdi@gmail.com with role: admin","service":"user-service","timestamp":"2026-04-21T10:30:53.536Z"}
 {"level":"info","message":"::1 - - [21/Apr/2026:10:30:53 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 120 \"-\" \"PostmanRuntime/7.53.0\"","service":"user-service","timestamp":"2026-04-21T10:30:53.538Z"}
+{"level":"info","service":"user-service","timestamp":"2026-04-25T05:09:41.078Z"}
+{"level":"info","message":"::1 - - [25/Apr/2026:05:09:41 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 507 \"-\" \"PostmanRuntime/7.53.0\"","service":"user-service","timestamp":"2026-04-25T05:09:41.100Z"}
+{"level":"info","message":"Registering user: msahdi1@gmail.com with role: admin","service":"user-service","timestamp":"2026-04-25T05:09:58.990Z"}
+{"level":"info","message":"::1 - - [25/Apr/2026:05:09:58 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 121 \"-\" \"PostmanRuntime/7.53.0\"","service":"user-service","timestamp":"2026-04-25T05:09:58.997Z"}
+{"level":"info","message":"::1 - - [25/Apr/2026:05:10:18 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 114 \"-\" \"PostmanRuntime/7.53.0\"","service":"user-service","timestamp":"2026-04-25T05:10:18.147Z"}
+{"level":"info","message":"::1 - - [25/Apr/2026:05:10:26 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 200 37 \"-\" \"PostmanRuntime/7.53.0\"","service":"user-service","timestamp":"2026-04-25T05:10:26.790Z"}
+{"level":"info","message":"::1 - - [25/Apr/2026:05:10:36 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 400 44 \"-\" \"PostmanRuntime/7.53.0\"","service":"user-service","timestamp":"2026-04-25T05:10:36.649Z"}
+{"level":"info","message":"::1 - - [25/Apr/2026:05:10:45 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 401 39 \"-\" \"PostmanRuntime/7.53.0\"","service":"user-service","timestamp":"2026-04-25T05:10:45.304Z"}
+{"level":"info","message":"::1 - - [25/Apr/2026:05:10:52 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 114 \"-\" \"PostmanRuntime/7.53.0\"","service":"user-service","timestamp":"2026-04-25T05:10:52.071Z"}
